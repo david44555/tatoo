@@ -45,14 +45,14 @@ MonoBehaviour:
   databaseLoad:
     dataSetsToLoad:
     - tatu
-    - VuforiaMars_Images
-    - VuforiaMars_Object_OT
     - VuforiaMars_VuMark
+    - VuforiaMars_Object_OT
+    - VuforiaMars_Images
     dataSetsToActivate:
     - tatu
-    - VuforiaMars_Images
-    - VuforiaMars_Object_OT
     - VuforiaMars_VuMark
+    - VuforiaMars_Object_OT
+    - VuforiaMars_Images
   videoBackground:
     clippingMode: 0
     numDivisions: 2
